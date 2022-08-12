@@ -1,22 +1,20 @@
 ---
 layout: page
-title: Home
-id: home
+title: 主页
+id: 主页
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome! 你好！
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+我是关念，欢迎来到我的[[数字花园]]，这里由原子化的卡片笔记编织而成，相当于[[obsidian]]online（至于为什么不直接用obsidian online，还不是因为穷吗！（
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+- 尽量通过鼠标悬浮预览进行[[上下文]]不中断的阅读。
+- 尽量通过底部[[反向链接]]找回来时的路。
+
+
+
+这座数字花园使用jekyll发布，方法[来源于此](https://github.com/maximevaillancourt/digital-garden-jekyll-template)，感谢！
+

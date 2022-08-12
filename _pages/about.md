@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about
 ---
 
-*This is an about page.*
+你可以叫我 关念
 
-Feel free to tell the world about what you love! 😍
+我的个人博客：https://shutgnblink.me/

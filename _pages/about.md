@@ -8,7 +8,7 @@ permalink: /about
 
 常见形象是一只粉猪 hh
 
-![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220814231733.png)
+![|400](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220814231733.png)
 
 来源于 pinkfloyd 一张 bootleg 的封面，并没有特殊含义，单纯用习惯了/喜欢粉蓝配色/很特别很好看！
 

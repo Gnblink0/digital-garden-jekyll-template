@@ -8,7 +8,7 @@ permalink: /about
 
 常见形象是一只粉猪 hh
 
-![|400](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220814231733.png)
+<img src="https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220814231733.png" style="zoom:30%;" />
 
 来源于 pinkfloyd 一张 bootleg 的封面，并没有特殊含义，单纯用习惯了/喜欢粉蓝配色/很特别很好看！
 
@@ -22,4 +22,4 @@ permalink: /about
 
 🟢[[豆瓣]]： https://www.douban.com/people/Gnblink/
 
-[[长毛象]]：我的主要活跃地，但不想直接暴露在此，你可以私信/发邮箱询问我的ID
+🐘[[长毛象]]：我的主要活跃地，但不想直接暴露在此，你可以私信/发邮箱询问我的ID

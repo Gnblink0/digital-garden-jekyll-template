@@ -7,7 +7,8 @@ permalink: /
 
 # Welcome! 你好！
 
-我是关念，欢迎来到我的[[数字花园]]，这里由原子化的卡片笔记编织而成，相当于[[obsidian]]online（至于为什么不直接用obsidian online，还不是因为穷吗！（
+我是关念（[[about|关于我]]），欢迎来到我的[[数字花园]]，这里由原子化的卡片笔记编织而成，相当于[[obsidian]] online，是我的博客与
+
 
 
 

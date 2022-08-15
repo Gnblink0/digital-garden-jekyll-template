@@ -20,6 +20,13 @@ body {
 
 }
 
+th,
+td {
+  padding: 4px 10px;
+  border: 1px solid;
+  border-color: hsl(0, 0%, 80%);
+}
+
 time {
   display: block;
   color: $color-subtext;

@@ -20,12 +20,19 @@ body {
 
 }
 
+// 自加
 th,
 td {
   padding: 4px 10px;
   border: 1px solid;
   border-color: hsl(0, 0%, 80%);
 }
+
+ul {
+  padding-inline-start: 15px;
+}
+
+// 自加
 
 time {
   display: block;

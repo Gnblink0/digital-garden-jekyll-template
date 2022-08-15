@@ -10,10 +10,12 @@ Mastodon：乳齿象（➡️）
 
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220815123109.png)
 
-估计是由于最初的翻译，但是官方的绘画形象也有长毛象的特征（⬇️） 🤔并不清楚开发者最初起名的初衷
+估计是由于最初的翻译，但是官方的绘画形象也有长毛象的特征（⬇️ 头上凸起的颅顶与毛发、更弯曲的牙齿） 据说是融合版 🤔 并不清楚开发者最初起名的初衷
 
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220815123558.png)
-头上凸起的颅顶与毛发和更弯曲的牙齿
+
+![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220815140751.png)
+
 
 ## 参考资料
 

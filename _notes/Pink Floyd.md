@@ -5,5 +5,6 @@
 ## 信息
 ### 成员
 [[Syd Barrett]]
+[[David Gilmour]]
 
 ### 来源

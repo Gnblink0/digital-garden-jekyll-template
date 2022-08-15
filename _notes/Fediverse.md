@@ -10,7 +10,15 @@ Fediverse 遵循去「中心化原则」，这意味着所有的服务站点都�
 
 我最常用的依然是[[长毛象]]，类似的 sns 平台还有 misskey 和 pleroma
 
-此外还有适合写长文
+此外还有适合写长文的 [Writefreely](writefreely.org/instances) 和 [Plume](joinplu.me)
+
+图片 PIXELFED、视频 PeerTube、音乐 Funkwhale
+
+等等等等
+
 
 Fedi 里的网站都可以互通！（你能想象在推特发的消息可以在 facebook 接收到吗？）
-但实话说，兼容性上还是会有点问题。
+
+但实话说，兼容性上还是会有点问题。所以我平时 99%的世界依然都是在[[长毛象]]啦... 
+
+这也导致有些人会默认 [[Mastodon|长毛象]] = [[Fediverse]]，这页的目的也是澄清一下这个问题

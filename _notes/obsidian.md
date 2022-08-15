@@ -1,11 +1,11 @@
 ### 是什么？
 obsidian 是一个践行[[第二大脑]]方法的笔记软件
 
-
+![A second brain, for you, forever.](https://s2.loli.net/2022/02/02/P9UHE5ZSeJNlFGw.jpg)
 
 ## 我与ob
 ### 我的经历
-我从 21 年 9 月第一次接触到 obsidian，之后连续沉迷
+我从 21 年 9 月第一次接触到 obsidian，之后连续沉迷至今。
 
 ### 相关文章
 两篇博文

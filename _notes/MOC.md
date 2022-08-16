@@ -1,19 +1,8 @@
-> 以下文字皆为转载
-
-MOC 的核心思想是：将笔记分层，透过「超连结」串连各则笔记，形成一张知识网。
-
-MOC 的概念出自于《How to Make a Complete Map of Every Thought You Think》，由其作者定义。
-
-MOC 笔记架构不 care 笔记是怎麽分类与标签的，除了叫做「MOC」的笔记之外，其他的笔记都是一视同仁的状态。
-
-在称为 MOC 的笔记当中，我们将跟这个主题有关的笔记都放进来 ，并且透过「超连结」的方式来管理笔记。也就是说：MOC 笔记就是存放跟「特定主题」有关的笔记超连结。
-
-## 作用
-每当你的笔记过多，多到使你开始感到不知所措（**心理挤压点**）时，就是你需要成为你自己内容的制图师并创建一个新的 MOC 之时。
-
-心理挤压点是指当你未分类的知识变得如此混乱，以至于使你不知所措并感到气馁时，要么你配备了某种框架去克服它，要么你被迫放弃这个项目。通常这时你会再次寻找下一个能让一切变得不同的应用程序。心理挤压点是一种情绪，是你感觉到的东西，无论你能否意识到它。当你感到灰心，不知所措，或对自己失望，对自己的努力不满意的时候，可以试着去感受它：这有可能是心理挤压点所采取的形式。
-
-也许克服这些挤压点的最好方法是在它完全淹没你之前，将目前正在研究的知识集合和组织起来，创建一个新的安全空间。这种专门用于思考的空间被称为 MOC（内容地图）。
+[LYT Kit](https://www.linkingyourthinking.com/download-lyt-kit)
 
 
-MOC 为将内容与内容与联系固化下来的一种方式，其与 Structure Note 相差无异，都可以视作笔记彻底”成熟“前的一个胶水层
+[數位筆記太多很凌亂怎麼辦？使用 MOC 架構有系統地管理數百則的數位筆記 | by 朱騏 | PM的生產力工具箱 | Medium](https://medium.com/pm%E7%9A%84%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7%E7%AE%B1/%E6%95%B8%E4%BD%8D%E7%AD%86%E8%A8%98%E5%A4%AA%E5%A4%9A%E5%BE%88%E5%87%8C%E4%BA%82%E6%80%8E%E9%BA%BC%E8%BE%A6-451a6cb4ab17)
+
+[再谈与 Obsidian 共舞的知识管理 - 知乎](https://zhuanlan.zhihu.com/p/355344374)
+
+[Knowledge, Innovation, Value and Wisdom - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/knowledge-innovation-value-and-wisdom/5166/2)

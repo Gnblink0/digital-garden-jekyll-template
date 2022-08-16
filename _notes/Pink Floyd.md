@@ -4,21 +4,24 @@
 
 ## 信息
 ### 成员
-[[Syd Barrett]]（早期主创、主唱、吉他）
+[[Syd Barrett]]（早期主创、主唱、吉他）（右上）
 
-[[David Gilmour]]（主唱 吉他 创作）
+[[David Gilmour]]（主唱 吉他 创作）（左上）
 
-[[Roger Waters]]
+[[Roger Waters]] （中）
 
-Rick Wright（键盘）
+Rick Wright（键盘）（右下）
 
-Nick Mason（鼓手）
+Nick Mason（鼓手）（左下）
 
 
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/IMG_4649.jpeg)
 
 
 ### 专辑
+
 [[The Dark Side of the Moon]]
+
+
 
 ### 来源

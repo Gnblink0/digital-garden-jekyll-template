@@ -18,7 +18,7 @@ Crash Course 的中文翻译叫十分钟「速成课」，每一集由 10min+的
 
 官方油管频道：[CrashCourse - YouTube](https://www.youtube.com/c/crashcourse)
 
-中文字幕组官方网站：[Crash Course 中文字幕组](https://crashcourse.club/category)
+中文字幕组官方网站：[Crash Course 中文字幕组](https://crashcourse.club/category)（🌟 推荐点击 可以看到目前所有已有系列）
 
 [Crash Course (YouTube) - Wikipedia](https://en.wikipedia.org/wiki/Crash_Course_ (YouTube))
 

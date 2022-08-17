@@ -1,5 +1,7 @@
 [Lana Del Rey - Wikipedia](https://en.wikipedia.org/wiki/Lana_Del_Rey)
 
+
+
 ## 专辑
 
 Lana Del Ray (2010)

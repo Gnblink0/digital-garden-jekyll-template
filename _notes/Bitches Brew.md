@@ -1,5 +1,7 @@
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/hk/album/bitches-brew/168376392?l=en"></iframe>
 
+粉 碎 音 观
+
 今晚（2021-05-20）才第一次听 Miles Davis 的《Bitches Brew》，真听愣了，真打开新世界大门。这个门洞开的零界点真是很微妙，某个作品，某个时空，兴趣和感受力多一点少一点都不行，测不准说不清。
 
 很多我现在挚爱的作品从来没有这样，没有初见震撼，比如《the wall》，可能纯潜移默化日久生情。上一次可能是第一次听《close to the edge》/《made in japan》。现在提起来可能很羞耻——我最初听 yes 一开始震惊沉迷，后来突然虚无绝望，回忆一下当时思路可能是：都已经做到这样了，某种类型的音乐早被玩到头了，最后突然想起现在身边的流行乐，一瞬间荒诞到只想呕吐。
@@ -10,7 +12,7 @@
 
 封面也有魅到我，想起《睡魔》，毫无根据但认真怀疑尼尔盖曼某些设定有受此影响
 
-![|250](https://s2.loli.net/2022/02/09/sO8XGBAd4KbokxN.jpg)![|250](https://s2.loli.net/2022/02/09/Ts2nQq3FvH7DaiI.jpg)
+<img src='https://s2.loli.net/2022/02/09/sO8XGBAd4KbokxN.jpg' style='width:250px'/> <img src='https://s2.loli.net/2022/02/09/Ts2nQq3FvH7DaiI.jpg' style='width:250px'/>
 
 ---
 

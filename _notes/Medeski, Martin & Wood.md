@@ -7,7 +7,7 @@
 ## 专辑推荐
 - Notes from the Underground
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/hk/album/notes-from-the-underground/1068734226?l=en"></iframe>
-一专，不插电，但是因为太丰富太先锋我第一次听都没注意到居然全程不插电……（它还叫…地下室手记耶  
+一专，不插电，但是因为太丰富太先锋我第一次听都没注意到居然全程不插电……（它还叫…[[《地下室手记》|地下室手记]]耶  
 
 
 - It's a Jungle In Here
@@ -21,3 +21,4 @@
 荤素搭配合理，有抒情慢歌（t2t4 好听优雅到泪目），有疯怪即兴（t5 里加的那个 fusion 爵吉他我好爱），有氛围长曲（t8），还有 riff 驱动别具一格的紧凑曲目（t1t6） 
 
 
+## 其他

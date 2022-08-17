@@ -2,6 +2,9 @@
 
 迷墙是最知名的概念专辑之一，概念专辑即整张专辑的歌围绕服务一个概念形成有机的整体，the wall 的核心概念就是——墙，具体形式是按时间顺序写了一位叫 pink floyd 的摇滚明星生平传记，其中融合了很多水爷的个人经历、感受。
 
+♥️ [[Comfortably Numb]] 、t5、t9、d2t1、
+
+
 ---
 
 现在 The Wall 还挂在我的 top1 album，曾经的最爱专，说“曾经”不是因为有新欢取而代之，而是现在可能无法说出“最爱专”这种东西了。
@@ -15,7 +18,6 @@
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220818033926.png)
 
 
-♥️ [[Comfortably Numb]] 、t5、t9、d2t1、
 
 ---
 

@@ -84,14 +84,15 @@
 
 我记得在关于Rory的叙事里有形容终身未婚、死于手术并发症的他为“married himself to music”。而Jeff的结局甚至更无辜到并非早逝于常见的drugs/酒（他父亲就死于heroin OD），而是在孟菲斯录二专时边等队友边唱whole lotta love，和衣下水游泳溺死在密西西比河里，消失在布鲁斯诞生的地方，这也太………而且纪录片此处出现的bgm，是翻唱史密斯的i know It's over(;´༎ຶД༎ຶ`)我说过这是悲伤的史密斯最悲伤的歌，我不认为Jeff超过了原版，但响起的这首尾声可能是最悲伤的版本。
 
-其实我大多数时候都很冷漠/平和，但昨天听Grace越听越生气，Jeff Buckley这种人，怎么能一生只做了一张专辑就死了，越想越郁闷。。继Jimi Hendrix之后最让我可惜早逝的人，都是我相信本可以用作品改变历史的人，然而最后只是留下一些posthumous legacies和无数sorry sighs。
+
+其实我一般对谁的死都看得很开，一整个世界等着去探索也不特别缺谁。但经常听Jef f的专辑就开始生气，Jeff Buckley这种人，怎么能一生只做了一张专辑就死了，越想越郁闷。。继Jimi Hendrix之后最让我可惜早逝的人，都是我相信本可以用作品改变历史的人，然而最后只是留下一些posthumous legacies和无数sorry sighs。
 
 看到rym的一个二专短评，我直接表演一个泪目。
 
 > Jeff Buckley was more than a musician. He was a brilliant songwriter, a gentle soul, a complex and emotional human being. Jeff Buckley was a lot of things, and nobody but Jeff Buckley can definitively say who he was. To keep things simple, I'll say this: Jeff Buckley was an angel and this was his goodbye kiss. Sleep well, beautiful creature. The world is too cruel to gems such as thee.
 > 
 > Jeff Buckley远不止是一个音乐家，他是一个才华横溢的作曲家，一个温柔的灵魂，一个复杂且敏感的人，是如此如此之多的事物，除了他自己，没有人可以定义他是谁。简而言之，我愿这么说：Jeff Buckley是一个天使，这是他的吻别。安睡吧，美丽的生物，这个世界对像你这样的珍宝太残酷了。
-
+<br>
 > 纪录片最后 “Do you want to be remembered？”
 > 
 > （若有所思沉默五秒） “I don't have to be remembered, I hope the music be remembered.”

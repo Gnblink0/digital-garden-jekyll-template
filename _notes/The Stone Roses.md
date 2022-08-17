@@ -1,3 +1,5 @@
+[The Stone Roses - Wikipedia](https://en.wikipedia.org/wiki/The_Stone_Roses)
+
 [乐队：黎明前凋谢的玫瑰——The Stone Roses - 知乎](https://zhuanlan.zhihu.com/p/24318829?utm_id=0)
 
 我觉得黎明前凋谢的玫瑰的确能很好地形容他们，britpop 雄心壮志的先声，却因为种种原因而如此短命。
@@ -7,6 +9,7 @@
 我竟然是从石玫瑰入坑到[[Led Zeppelin|飞艇]]的，当时听二专惊为天人，然后在评论看到有人提齐柏林
 
 ## 成员
+
 Ian Brown
 
 John Squire
@@ -17,3 +20,7 @@ Reni
 
 
 ## 专辑
+
+The Stone Roses (1989)
+
+Second Coming (1994)

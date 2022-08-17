@@ -1,6 +1,12 @@
 哈哈哈，不管怎么评价，还是得承认 Pink Floyd 是我花了最多时间精力的乐队
 
-最先听完全部录音室专的乐队
+最先听完全部录音室专的乐队，还看完了[[Uncunt音乐指南|Uncunt那本音乐指南]]和那本[紫皮传记](https://book.douban.com/subject/34821222/)
+
+Pink Floyd 是一个被赋魅得已经太多的乐队，“伟大的 pf”我已经看吐了。
+
+[[祛魅]]地说：Pink Floyd 其实就是一个其实挺坎坷但总体顺滑平稳的非典型现象级成功商业乐队。如果硬让我贴标签我会贴“剑桥中产”“英式性冷淡”“偏执强迫症”“器材技术党”“华丽舞台秀”“概念符号学家” “讽刺抒情诗人”“有钱摇滚明星”……
+
+but all in all, 他们的音乐和一切音乐衍生物实在是太 他 妈 好 了
 
 ## 信息
 [Pink Floyd - Wikipedia](https://en.wikipedia.org/wiki/Pink_Floyd)
@@ -50,6 +56,32 @@ A Momentary Lapse of Reason (1987)
 The Division Bell (1994)
 
 The Endless River (2014)
+
+15 张录音室正式专辑、1 张早期合集［Relics］
+
+---
+
+> 之前还写过一个[推荐（so called 指南...）](https://music.163.com/#/playlist?app_version=8.7.55&id=2533584688&dlt=0846&creatorId=106916740)，当时第一次听完一个多产乐队的全专感觉自己可牛逼了！（）顺便放放吧
+
+单曲推荐：Time、The Great Gig in the Sky、Money三首连起来；Wish You Were Here； [[Comfortably Numb]]； [[Echoes]]； High Hopes；Interstellar Override 
+
+专辑推荐： 
+
+- 听完连听的三首觉得很爽一点也不烦 请从头到尾听 The Dark Side of the Moon、The Wall 整专 喜欢 The Wall 可听 The Final Cut 
+
+- 听完 23 分钟的 Echoes 觉得很爽一点也不烦 请从头到尾听 Wish You Were Here、Animals 整专 可听 Atom Heart Mother 
+
+- 喜欢 High Hopes 请听 The Division Bell 可听 A Moment Lapse of Reason 
+
+- 喜欢 Interstellar Override 请听 The Piper at the Gates Of Dawn、Relics 可听 Meddle、A Sauceful of Secrets、Ummagumma
+
+- 大部分听完了 请听 The Endless River 
+
+- 闲着没事/追求大圆满请听More、Obscured by Clouds（？ 
+
+- 概念专辑：The Wall、The Dark Side of the Moon、The Final Cut、Animals、Wish You Were Here 
+
+- 与Wish You Were Here类似的抒情木吉他单曲：Green Is the Colour、If、Summer 68、Fat Old Sun、Fearless、Wot’s... Uh the Deal、Mother、Cymbalin、Grantchester Meadow （我真的好爱这些！ ！）
 
 ## 迷思
 

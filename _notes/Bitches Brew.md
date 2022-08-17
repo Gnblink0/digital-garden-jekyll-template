@@ -16,7 +16,7 @@
 
 ---
 
-后来还看了本口袋文库的小册子 [迈尔斯•載维斯：即兴精酿](https://book.douban.com/subject/30448453/?dt_dapp=1)
+后来还看了本口袋文库的小册子 [迈尔斯·戴维斯：即兴精酿](https://book.douban.com/subject/30448453/?dt_dapp=1)
 
 非常不错，当时写的短评 ⬇️
 

@@ -6,6 +6,7 @@
 
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220817120505.png)
 
+![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220817120547.png)
 
 后来朋友还送了我实体专 555
 

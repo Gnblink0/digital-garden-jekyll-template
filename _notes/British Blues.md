@@ -22,3 +22,37 @@
 后来几个月自然而然陆陆续续总共听了几十专相关，所以说这学期光听这了。一开始也根本毫无概念，天性相通单纯喜欢罢了。后来听得看得多了点，也有幸认识同好聊了很多。再后来魏老师居然在本地搞了场British Blues聆听，真的感谢！最快乐记忆之一。再再后来为学业秃头夹缝作乐顾不上什么，现在，半年过去又回到了假期，终于能敲敲键盘为这些英蓝宝贝们说点什么做点什么了。
 
 随着认识的变化，语言和观念也会不断改变。我开始就把它当早期硬摇听，不过那个时候也知道什么是布鲁斯了。我最最白的时候在网易云请教别人布鲁斯和摇滚的区别和关系，还真认识了一哥们和我扯布鲁斯是左右摇，摇滚是前后摇，金属不知道咋摇只能甩头跑圈了，还弹给我听了听。虽然后来再提起此事，他自嘲啥都不懂全是扯淡，但我现在还觉得不无道理哈哈哈。总之，最开始只知道是英国人搞的，是布鲁斯味硬摇滚，后来越来越有“这是一个scene/motivation（音乐景观、社会风潮）”的意识，也就开始British Blues、British Blues地叫。再后来也就是单纯懒得打字就直接叫英蓝了，莫名亲昵合适。
+
+## 推荐乐队
+
+- 早期
+	- Alexis Korner
+	- the Rolling Stone
+	- The Animals
+	- The Moody Blues
+
+- 先驱
+	- BluesBreakers（John Mayall）
+	- Fleetwood Mac（Peter Green）
+
+两个高潮——Cream 与 Jimi Hendrix
+
+英蓝发展到这一时期，已经站上了流量巅峰，成为了当时最流行的流行乐。
+
+- 后期大爆发
+	- 三个我的最爱
+		- Free
+		- Ten Years After
+		- [[Rory Gallagher]]
+	- Groundhogs
+	- Humble Pie
+	- Jethro Tull
+	- chicken shack
+	- foghat
+
+- 私心（都只有一专但都很好）
+	-  Bakerloo
+	- Steamhammer
+
+- 终结 [[Led Zeppelin]]
+

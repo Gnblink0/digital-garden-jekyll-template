@@ -24,4 +24,4 @@ anyway，祝你在这个**玄关花园**逛得开心！
 - 你可以从我提供的 ==→ [[大纲]] ←== 开始！
 
 ---
-这里使用jekyll发布，方法[来源于此](https://github.com/maximevaillancourt/digital-garden-jekyll-template)，感谢！
+[[想拥有自己的数字花园吗？]]

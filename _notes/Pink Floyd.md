@@ -33,11 +33,11 @@ A Saucerful of Secrets (1968)
 
 More (1969)
 
-Ummagumma (1969)
+[[Ummagumma]] (1969)
 
 Atom Heart Mother (1970)
 
-Meddle (1971)
+[[Meddle|Meddle]] (1971)
 
 Obscured by Clouds (1972)
 
@@ -63,7 +63,7 @@ The Endless River (2014)
 
 > 之前还写过一个[推荐（so called 指南...）](https://music.163.com/#/playlist?app_version=8.7.55&id=2533584688&dlt=0846&creatorId=106916740)，当时第一次听完一个多产乐队的全专感觉自己可牛逼了！（）顺便放放吧
 
-单曲推荐：Time、The Great Gig in the Sky、Money三首连起来；Wish You Were Here； [[Comfortably Numb]]； [[Echoes]]； High Hopes；Interstellar Override 
+单曲推荐：Time、The Great Gig in the Sky、Money三首连起来；Wish You Were Here； [[Comfortably Numb]]； [[Meddle|Echoes]]； High Hopes；Interstellar Override 
 
 专辑推荐： 
 

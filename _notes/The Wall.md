@@ -2,24 +2,27 @@
 
 迷墙是最知名的概念专辑之一，概念专辑即整张专辑的歌围绕服务一个概念形成有机的整体，the wall 的核心概念就是——墙，具体形式是按时间顺序写了一位叫 pink floyd 的摇滚明星生平传记，其中融合了很多水爷的个人经历、感受。
 
-♥️ [[Comfortably Numb]] 、t5、t9、d2t1、
+♥️ [[Comfortably Numb]] 、t5、t9、d2t1、d2t2
 
 
 ---
+
+![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220818033926.png)
 
 现在 The Wall 还挂在我的 top1 album，曾经的最爱专，说“曾经”不是因为有新欢取而代之，而是现在可能无法说出“最爱专”这种东西了。
 
 我对The wall的最佳评价就是「无法评价the wall正如人无法评价自身的一部分。」
 
-高三非常沉迷摇滚，大部分时间都在学校刷题度过，经常偷偷带手机 / mp3 去边听歌边刷题。The wall 就是当时我刷的最多的专辑... disc1基本会背已经刻入dna（2有几首不喜欢，很少真的完整听到结尾）
+高三非常沉迷摇滚，大部分时间都在学校刷题度过，经常偷偷带手机 / mp3 去边听歌边刷题。The wall 就是当时我刷的最多的专辑... disc1 基本会背已经刻入 dna（d
+2 后面有几首不喜欢，很少真的完整听到结尾）
 
-（突然吐槽一下对东亚性无语，后来发现[[Pink Floyd]]其实经常被和高中回忆挂钩，但欧美是“你年轻时边听月之暗面边和朋友磕药high” 东亚人是“我高中晚自习边听 the wall 整轨边刷题” 我操 闻者落泪 we don't need no education ）
+（突然吐槽一下对东亚性无语，后来发现[[Pink Floyd]]其实经常被和高中回忆挂钩⬇️，但欧美是“你年轻时边听月之暗面边和朋友磕药 high” 东亚人是“我高中晚自习边听 the wall 整轨边刷题” 我操 闻者落泪 we don't need no education ）
 
-![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220818033926.png)
-
-
+![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220818040955.png)
 
 ---
+
+比较值得提的一点是[[Roger Waters]]在这专埋了一个草蛇灰线，baby 和 obey
 
 
 

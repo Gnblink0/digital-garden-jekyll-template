@@ -1,12 +1,8 @@
-
-
 ## Mojo Pin
 > he was just one of those guys that everybody fell in love in a second they met him
 
-21 年年底听到的他，契机是去听一个叫 Robin（刘人友）音乐人的 live
-<img src="https://s2.loli.net/2022/03/03/tzglJ6SVZHKx2yu.png" alt=" " width=300px />
+21 年年底听到的他，契机是[[2021-11-29 Robin刘|去听了一个 live]]，Robin 在台上就翻了一首歌，就是 Jeff Buckley 的，说这是对他影响最大的音乐人。
 
-他在台上就翻了一首歌，就是 Jeff Buckley 的，说这是对他影响最大的音乐人。
 （我后来几乎听完了Jeff所有的歌，但这个时候我还没有听过任何一首他的歌，所以我不记得是哪首哈哈哈）
 
 我说 什么 哪位啊 我好像没听过，我朋友就开始和我侃，侃了一会拿出手机给我看**他生前唯一的专辑 Grace**，我一看到封面才发现居然很有印象。

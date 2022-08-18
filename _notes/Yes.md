@@ -1,3 +1,27 @@
+Yes 真的就是那种典中典 prog rock band，成员都是炫技狂魔巨佬，歌也是那种又怪又长又美
+
+但
+
+kc也是一个典型前摇队，但它太独特了，我不会把它和“典型前摇挂钩[[Pink Floyd]]则不是典型前摇队。
+
+最后也是就是为了前卫而前卫 已经有套固定模版和触发特色了一样
+
+所以prog rock
+
+## 成员
+
+巅峰阵容
+
+Jon Anderson
+
+Steve Howe
+
+Rick Wakeman
+
+Chris Squire
+
+Bill Bruford
+
 ## 专辑
 
 Yes (1969)

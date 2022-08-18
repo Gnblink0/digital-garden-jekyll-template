@@ -1,6 +1,6 @@
 2022 年 5 月 被 am ∞推发现的
 
-50 年代的 [[cool jazz]] 先驱，影响了 Miles Davis（When jazz was bebop-hot, pianist Ahmad Jamal helped cool it down. ）
+50 年代的 [[cool jazz]] 先驱，影响了 [[Miles Davis]]（When jazz was bebop-hot, pianist Ahmad Jamal helped cool it down. ）
 
 词穷直接引用 am 形容：收放自如的张力控制、出人意料的切分和动态、旋律优美的作曲风格（是的我就是喜欢又有律动又有调的-.-）
 

@@ -56,6 +56,8 @@
 
 ## Grace
 
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/hk/album/grace-legacy-edition/1476889347?l=en"></iframe>
+
 总之要说now的话，Grace的编排和制作，可以形容为独特而不失流行。
 
 形式上可以说10首吉他抒情流行1首摇滚，然而但凡有点鉴赏力就可以体会到里面想法、心思、技术、经验非常非常深。听的时候很难直接把这种音乐 和 白纸黑字写给你的他的人生经历联系起来——硬摇滚、前卫摇滚、爵士、布鲁斯、世界音乐，甚至最能让人联想到的民谣也太局限了，除了**Jeff Buckley**和**Grace**之外似乎真的没什么能概括这种音乐的词。
@@ -80,9 +82,9 @@
 > 
 > ——《So Real》
 
-还是真心爱过几个滚人的，发现我真的很爱某种 痴迷音乐才华横溢貌美如花无辜善良美惨强type——David Gilmour、Rory Gallagher、Donovan、Mike Bloomfield……仔细想想差不多都这种。
+还是真心爱过几个滚人的，发现我真的很爱某种 [[作者与作品 鸡与蛋|痴迷音乐才华横溢貌美如花无辜善良美惨强type]]——David Gilmour、Rory Gallagher、Donovan、Mike Bloomfield……仔细想想差不多都这种。
 
-我记得在关于Rory的叙事里有形容终身未婚、死于手术并发症的他为“married himself to music”。而Jeff的结局甚至更无辜到并非早逝于常见的drugs/酒（他父亲就死于heroin OD），而是在孟菲斯录二专时边等队友边唱whole lotta love，和衣下水游泳溺死在密西西比河里，消失在布鲁斯诞生的地方，这也太………而且纪录片此处出现的bgm，是翻唱史密斯的i know It's over(;´༎ຶД༎ຶ`)我说过这是悲伤的史密斯最悲伤的歌，我不认为Jeff超过了原版，但响起的这首尾声可能是最悲伤的版本。
+我记得在关于Rory的叙事里有形容终身未婚、死于手术并发症的他为“married himself to music”。而Jeff的结局甚至更无辜到并非早逝于常见的drugs/酒（他父亲就死于heroin OD），而是在孟菲斯录二专时边等队友边唱whole lotta love，和衣下水游泳溺死在密西西比河里，消失在布鲁斯诞生的地方，这也太………而且纪录片此处出现的bgm，是翻唱史密斯的i know It's over(;´༎ຶД༎ຶ\`)我说过这是悲伤的史密斯最悲伤的歌，我不认为Jeff超过了原版，但响起的这首尾声可能是最悲伤的版本。
 
 
 其实我一般对谁的死都看得很开，一整个世界等着去探索也不特别缺谁。但经常听Jef f的专辑就开始生气，Jeff Buckley这种人，怎么能一生只做了一张专辑就死了，越想越郁闷。。继Jimi Hendrix之后最让我可惜早逝的人，都是我相信本可以用作品改变历史的人，然而最后只是留下一些posthumous legacies和无数sorry sighs。

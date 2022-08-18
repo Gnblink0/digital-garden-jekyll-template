@@ -1,6 +1,21 @@
 也是高中很迷的队！
 
 ## 成员
+[List of Guns N' Roses members - Wikipedia](https://en.wikipedia.org/wiki/List_of_Guns_N%27_Roses_members)
+
+可能是摇滚史上成员变化最频繁的乐队之一... 但 经典阵容
+
+Axl Rose
+
+Slash
+
+Izzy Stradlin
+
+Duff McKagan
+
+Steven Adler
+
+
 
 ## 专辑
 

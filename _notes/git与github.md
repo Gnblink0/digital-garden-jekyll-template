@@ -24,12 +24,14 @@ Github 日常依然是使用[[命令行]]操作，但是 Desktop提供了图形�
 
 ## 资料
 
+[Git 和 GitHub - 学习 Web 开发 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn/Tools_and_testing/GitHub)
+
+[Git零基础入门到实战详解_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1sJ411D7xN?spm_id_from=333.999.0.0&vd_source=edb3b9d2edcf09617c0c07c0499efd40)
+
 [主页 // 像 (a) Git 一样思考](http://think-like-a-git.net/)
 
 [git 简明指南](https://www.runoob.com/manual/git-guide/)
 
 [Git基本语句](https://ufkqhva2uf.feishu.cn/mindnotes/bmncnWRCctHYfPd4Wi6I4jnGzBe)
-
-[Git零基础入门到实战详解_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1sJ411D7xN?spm_id_from=333.999.0.0&vd_source=edb3b9d2edcf09617c0c07c0499efd40)
 
 [Eished/git_notes: web前端工程师 -前后端交互技术 Git和GitHub详解（完） ----学习笔记](https://github.com/Eished/git_notes)

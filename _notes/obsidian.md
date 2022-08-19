@@ -1,4 +1,5 @@
 ## 是什么？
+
 obsidian 是一个践行[[第二大脑]]方法的笔记软件
 
 ![A second brain, for you, forever.](https://s2.loli.net/2022/02/02/P9UHE5ZSeJNlFGw.jpg)

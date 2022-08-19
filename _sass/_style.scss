@@ -22,9 +22,6 @@ body {
 
 // 自加
 
-ul {
-  margin-block-start: 0;
-}
 
 mark {
   background-color: #faedb1ab;
@@ -91,9 +88,13 @@ blockquote {
   }
 }
 
-p,
-ul {
+p {
   margin-block-start: 0.9em;
+  margin-block-end: 0.9em;
+}
+
+ul {
+  margin-block-start: 0;
   margin-block-end: 0.9em;
 }
 

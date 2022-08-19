@@ -22,8 +22,12 @@ body {
 
 // 自加
 
+ul {
+  margin-block-start: 0;
+}
+
 mark {
-  background-color: #FAEDB1;
+  background-color: #faedb1ab;
 }
 
 table {

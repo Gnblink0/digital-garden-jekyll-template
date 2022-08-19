@@ -24,7 +24,7 @@ Github 日常依然是使用[[命令行]]操作，但是 Desktop提供了图形�
 
 ## 资料
 
-[Git 和 GitHub - 学习 Web 开发 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn/Tools_and_testing/GitHub)
+[Git 和 GitHub - 学习 Web 开发丨MDN](https://developer.mozilla.org/zh-CN/docs/Learn/Tools_and_testing/GitHub)
 
 [Git零基础入门到实战详解_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1sJ411D7xN?spm_id_from=333.999.0.0&vd_source=edb3b9d2edcf09617c0c07c0499efd40)
 

@@ -36,3 +36,9 @@ and 最帅的（）[b 站有个红衣封面的 live](https://www.bilibili.com/vi
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/2022-08-20.png)
 
 [[使命]]
+
+![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220820234906.png)
+
+当初知道发起 live aid 的是[[The Wall|迷墙]]主演就很震惊了，原来他也是爱尔兰人！
+
+[Bob Geldof - Wikipedia](https://en.wikipedia.org/wiki/Bob_Geldof)

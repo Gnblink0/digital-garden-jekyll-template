@@ -99,7 +99,7 @@
 
 [Rolling Stone – Music, Film, TV and Political News Coverage](https://www.rollingstone.com/)
 
-[Pitchfork | The Most Trusted Voice in Music. | Pitchfork](https://pitchfork.com/)
+[Pitchfork - The Most Trusted Voice in Music.](https://pitchfork.com/)
 
 
 - [rocklistmusic](https://www.rocklistmusic.co.uk/)
@@ -143,6 +143,7 @@
 高清专辑封面网站，最低都是600x600像素，告别av画质
 
 - [Apple Music Artwork Finder by Ben Dodson](https://bendodson.com/projects/apple-music-artwork-finder/) ×
+
 一个程序员写的抓取apple music上专辑封面的网站，输入分享链接即可 am用户获取高清封面的最佳方法，因为am强制要求平台上专辑的封面最低为3000x3000像素，但用户无法直接保存封面
 
 
@@ -157,7 +158,7 @@ Live相关网站，检索方便、信息齐全，既可以看过往巡演歌单�
 
 可以查著名乐手们的乐器、设备（gear） 说全也全说不全也不全，因为是像 wiki 一样的群众编辑贡献制，作为汇总检索和初步了解不错，单独研究偶像还是建议直接谷歌。
 
-- [Discover Music via Samples, Cover Songs and Remixes | WhoSampled](https://www.whosampled.com/)
+- [Discover Music via Samples, Cover Songs and Remixes - WhoSampled](https://www.whosampled.com/)
 
 可以查哪首歌采样了哪首歌～
 

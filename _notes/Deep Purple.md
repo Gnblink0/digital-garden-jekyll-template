@@ -33,7 +33,7 @@ Shades of Deep Purple (1968)
 
 The Book of Taliesyn (1968)
 
-Deep Purple (1969)
+[[Deep Purple(Album)|Deep Purple]] (1969)
 
 Deep Purple in Rock (1970)
 

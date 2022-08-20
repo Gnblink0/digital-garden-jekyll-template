@@ -21,3 +21,18 @@ stay 哇音..
 wots uh the deal ❤️ 永远的情怀之神 看了 mv 之后这歌变得过于美好 ！
 
 Obscured by Clouds 这个意象我喜欢
+
+## 封面
+![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220821004627.png)
+
+
+2021-02-14
+
+回家突发奇想去江边散步，其实我很少很少白天下午的时候来江边，阴间作息有闲心散步太阳早落山了。
+
+结果——真好真美啊.... 大自然 水 光 云影 树影 鸟叫，歌还刚好放到 kc 的 island，我整个人都被净化了。还发现了 pf 的 obscured by clouds....「Heaven sent the promised land, looks alright from where I stand 」
+
+![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220821004424.png)
+![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220821004437.png)
+
+![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220821004342.png)

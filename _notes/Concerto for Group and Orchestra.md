@@ -3,7 +3,7 @@
 
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220818145043.png)
 
-一提这专就是交响摇滚先河 
+69年的，一提这专就是交响摇滚先河 
 
 但是发现 2002remastered 有三首 mark2 阵容 live 演前一二专的歌+child in time 这他妈简直为我喜好量身定做
 
@@ -26,13 +26,13 @@ Gillan 差点在旁边的椅子干坐一个小时哈哈哈 2拉起来唱两句 �
 
 [Deep Purple - Concerto for Group and Orchestra (1969) - YouTube](https://www.youtube.com/watch?v=gnA1IMnLZr4&t=881s)
 
-好像第一次看深紫live视频
+好像第一次看深紫 live 视频，看视频和音频感觉不一样了。
 
-看视频和音频感觉不一样了 摇滚乐队和交响乐团这种规模和音量、视觉和听觉上的反差也是很奇妙
+摇滚乐队和交响乐团这种规模和音量、视觉和听觉上的反差很奇妙
 
 都才20多岁 真年轻 佩服jon lord 能想到这种合作的压力 
 
-摇滚部分交响乐手：-.- 不过也有人笑着打拍子 hh
+摇滚部分交响乐手be like：-.- 不过也有人笑着打拍子 hh
 
 [[Ritchie Blackmore|黑多]]穿一身敞胸黑绸抱红棕空心 Gibson es 立于交响乐团中心绝对摇滚名场面（虽然他内心无时无刻不想和交响乐团同归于尽 hh
 

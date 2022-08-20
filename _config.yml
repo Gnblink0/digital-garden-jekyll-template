@@ -46,9 +46,9 @@ defaults:
 
 
 algolia:
-  application_id: "gnblinko"
+  application_id: "gnblink0"
   index_name: "Gnblink"
   search_only_api_key: "520c7954ffd76f7723aaa3d14322b5c7"
   files_to_exclude:
-    - Arthut lee & love
-    - 2021-11-29 robin刘
+    - 2021-11-29 Robin刘.md
+  nodes_to_index: 'p,blockquote,backlink-box'

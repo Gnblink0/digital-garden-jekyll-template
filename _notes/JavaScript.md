@@ -1,11 +1,14 @@
 ---
 ---
 
-[黑马程序员JavaScript全套教程_bilibili](https://www.bilibili.com/video/BV1ux411d75J?vd_source=edb3b9d2edcf09617c0c07c0499efd40)
 
-[JS入门教程](https://www.bilibili.com/video/BV1ux411d75J?vd_source=edb3b9d2edcf09617c0c07c0499efd40) [[2022-08-20]] 190/190 ✅
+1. [JS入门教程](https://www.bilibili.com/video/BV1ux411d75J?vd_source=edb3b9d2edcf09617c0c07c0499efd40) ✅ [[2022-08-20]] 190/190 
+![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220821023643.png)
 
-[JS核心教程，DOM BOM操作](https://www.bilibili.com/video/BV1k4411w7sV/)
+2. [JS核心教程，DOM BOM操作](https://www.bilibili.com/video/BV1k4411w7sV/)
+
+---
+⚠️ 以下直接复制粘贴ob里的笔记，未做格式化处理，包括一些无法识别的标题链接和内链图片
 
 # 是什么
 [什么是 JavaScript？ - 学习 Web 开发 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
@@ -15,8 +18,6 @@
 - 特点
 	- JavaScript 是一种轻量级的编程语言。
 	- JavaScript 是可插入 HTML 页面的编程代码。
-
-JavaScript 是轻量级解释型语言。浏览器接受到 JavaScript 代码，并以代码自身的文本格式运行它。技术上，几乎所有 JavaScript 转换器都运用了一种叫做[[计算机基本概念#解释代码（interpret） vs 编译代码 compile|即时编译]]（just-in-time compiling）的技术；当 JavaScript 源代码被执行时，它会被编译成二进制的格式，使代码运行速度更快。尽管如此，JavaScript 仍然是一门解释型语言，因为编译过程发生在代码运行中，而非之前。
 
 
 # 黑马
@@ -59,7 +60,9 @@ JavaScript 是轻量级解释型语言。浏览器接受到 JavaScript 代码，
 
 %%翻译一句，执行一句%%
 
-当浏览器执行到一段 JavaScript 代码时，通常会按从上往下的顺序执行这段代码。这意味着你需要注意代码书写的顺序
+当浏览器执行到一段 JavaScript 代码时，通常会按从上往下的顺序执行这段代码。这意味着你需要注意代码书写的顺序。
+
+JavaScript 是轻量级解释型语言。浏览器接受到 JavaScript 代码，并以代码自身的文本格式运行它。技术上，几乎所有 JavaScript 转换器都运用了一种叫做即时编译（just-in-time compiling）的技术；当 JavaScript 源代码被执行时，它会被编译成二进制的格式，使代码运行速度更快。尽管如此，JavaScript 仍然是一门解释型语言，因为编译过程发生在代码运行中，而非之前。
 
 
 ### JS 的组成

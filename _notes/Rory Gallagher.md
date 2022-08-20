@@ -7,7 +7,7 @@ and 最帅的（）[b 站有个红衣封面的 live](https://www.bilibili.com/vi
 
 69年组了taste，很实的英伦布鲁斯，技术和想法从一开始就顶尖而独特，1970二专甚至走向了当时流行的fusion，他在里面亲自吹了萨克斯。后来散伙单飞甚至更成功，72年巅峰期，他在当年甚至打败了Eric Clapton成为最受欢迎的吉他手。
 
-一个人兼具弹唱，声音和吉他一样热情有辨识度，我和另一个朋友一致认为他是那批吉他手里最会唱歌的。除了布鲁斯吉他和口琴，还很擅长原声吉他、曼陀铃、班卓，所以有非常多优秀的爱尔兰民谣风格曲目。（他一个人就能完成吉他调戏主唱传统艺能(··;)）
+一个人兼具弹唱，声音和吉他一样热情有辨识度，我和另一个朋友一致认为他是那批吉他手里最会唱歌的。除了布鲁斯吉他和口琴，还很擅长原声吉他、曼陀铃、班卓，所以有非常多优秀的爱尔兰民谣风格曲目。（他一个人就能完成吉他调戏主唱传统艺能(· ·;)）
 
 比起录音室，Rory的滚烫的live其实更出名，巡演基本是场场爆满，72年的Live in Europe和74年的Irish Tour在所有现场专里应该都排得上号，80年代还和Muddy Waters合作了一场现场。
 
@@ -17,10 +17,22 @@ and 最帅的（）[b 站有个红衣封面的 live](https://www.bilibili.com/vi
 
 
 ## 资料
+
+
 [casino的相册-罗滚滚](https://www.douban.com/photos/album/64027418/)
 
 [casino的相册-RG截](https://www.douban.com/photos/album/69022127/)
 
 [与罗里的回忆：与罗里最亲近的日本人之一、原日本罗里·加拉格尔粉丝俱乐部部长前睦美女士访谈 - 小组讨论 - 豆瓣](https://m.douban.com/group/topic/209024107/)
 
+---
 
+[【中英字幕】幽灵蓝调：罗里.加拉格尔的故事 Rory Gallagher - bilibili](https://www.bilibili.com/video/BV1a3411L7Wf?spm_id_from=333.337.search-card.all.click&vd_source=edb3b9d2edcf09617c0c07c0499efd40)
+
+
+![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220820233350.png)
+
+![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/Clipboard - 2022-08-20 23.38.18. png)
+![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/2022-08-20.png)
+
+[[使命]]

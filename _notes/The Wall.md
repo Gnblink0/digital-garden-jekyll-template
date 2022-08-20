@@ -41,13 +41,8 @@
 
 ## 电影
 
-```cardlink
-url: https://movie.douban.com/subject/1296157/?dt_dapp=1
-title: "迷墙 Pink Floyd The Wall"
-description: "本片用迷幻的影像和摇滚乐讲述了一个非典型乐队主唱的成长史。儿时，平克（鲍勃•吉尔道夫 Bob Geldof  饰）的父亲在二战中身亡，母亲与家庭医生关系暧昧，这让他幼小心灵备受创伤。在学校，他对呆板的..."
-host: movie.douban.com
-image: https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2567407809.jpg
-```
+<div class="auto-card-link-container"><a class="auto-card-link-card" href="https://movie.douban.com/subject/1296157/?dt_dapp=1"><div class="auto-card-link-main"><div class="auto-card-link-title">迷墙 Pink Floyd The Wall</div><div class="auto-card-link-description">本片用迷幻的影像和摇滚乐讲述了一个非典型乐队主唱的成长史。儿时，平克（鲍勃•吉尔道夫 Bob Geldof  饰）的父亲在二战中身亡，母亲与家庭医生关系暧昧，这让他幼小心灵备受创伤。在学校，他对呆板的...</div><div class="auto-card-link-host"><span>movie. douban. com</span></div></div><div class="auto-card-link-thumbnail"><img class="auto-card-link-thumbnail-img" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2567407809.jpg" alt=""></div></a></div>
+
 
 这专还拍了电影
 

@@ -16,21 +16,15 @@ and 最帅的（）[b 站有个红衣封面的 live](https://www.bilibili.com/vi
 80 年代布鲁斯开始没落，Rory 纯正的风格在乐评届看来显得“自我重复、缺乏变化”，而他本人在 90 年代因为手术并发症不幸病逝。从此之后 Rory 似乎被遗忘了，听 blues 的人清楚他的地位，但我很少看见他在主流叙事里被提起。绝对的 underrated，Rory Gallagher 怎么该变成遗珠，他理应嵌在布鲁斯摇滚乐手界最耀眼的位置上，甚至不需要贴上爱尔兰民族标签也已经够耀眼。
 
 
-## 资料
 
-
-[casino的相册-罗滚滚](https://www.douban.com/photos/album/64027418/)
-
-[casino的相册-RG截](https://www.douban.com/photos/album/69022127/)
-
-[与罗里的回忆：与罗里最亲近的日本人之一、原日本罗里·加拉格尔粉丝俱乐部部长前睦美女士访谈 - 小组讨论 - 豆瓣](https://m.douban.com/group/topic/209024107/)
-
----
+## 纪录片
 
 [【中英字幕】幽灵蓝调：罗里.加拉格尔的故事 Rory Gallagher - bilibili](https://www.bilibili.com/video/BV1a3411L7Wf?spm_id_from=333.337.search-card.all.click&vd_source=edb3b9d2edcf09617c0c07c0499efd40)
 
 
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220820233350.png)
+
+其实我觉得他很典型的爱尔兰长相诶，看[致命ID](https://movie.douban.com/subject/1297192/?dt_dapp=1)的时候感觉贼喜欢库萨克，就感觉很像谁，后来醒悟……Rory Gallagher??
 
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/Clipboard - 2022-08-20 23.38.18. png)
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/2022-08-20.png)
@@ -42,3 +36,13 @@ and 最帅的（）[b 站有个红衣封面的 live](https://www.bilibili.com/vi
 当初知道发起 live aid 的是[[The Wall|迷墙]]主演就很震惊了，原来他也是爱尔兰人！
 
 [Bob Geldof - Wikipedia](https://en.wikipedia.org/wiki/Bob_Geldof)
+
+
+## 资料
+
+
+[casino的相册-罗滚滚](https://www.douban.com/photos/album/64027418/)
+
+[casino的相册-RG截](https://www.douban.com/photos/album/69022127/)
+
+[与罗里的回忆：与罗里最亲近的日本人之一、原日本罗里·加拉格尔粉丝俱乐部部长前睦美女士访谈 - 小组讨论 - 豆瓣](https://m.douban.com/group/topic/209024107/)

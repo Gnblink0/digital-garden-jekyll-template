@@ -3,6 +3,7 @@
 
 
 1. [JS入门教程](https://www.bilibili.com/video/BV1ux411d75J?vd_source=edb3b9d2edcf09617c0c07c0499efd40) ✅ [[2022-08-20]] 190/190 
+
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220821023643.png)
 
 2. [JS核心教程，DOM BOM操作](https://www.bilibili.com/video/BV1k4411w7sV/)

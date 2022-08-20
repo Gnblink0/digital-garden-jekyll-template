@@ -43,3 +43,12 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+
+
+algolia:
+  application_id: "gnblinko"
+  index_name: "Gnblink"
+  search_only_api_key: "520c7954ffd76f7723aaa3d14322b5c7"
+  files_to_exclude:
+    - Arthut lee & love
+    - 2021-11-29 robin刘

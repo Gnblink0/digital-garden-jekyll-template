@@ -1,3 +1,6 @@
+---
+---
+
 [博客链接](https://shutgnblink.me/2021/john-mclaughlin%E4%B8%8Efusion1970%E5%B9%B4%E9%99%84%E8%BF%91%E7%9A%84%E7%88%B5%E5%A3%AB%E4%B8%8E%E6%91%87%E6%BB%9A/) ，本文是 Birds of Fire 专辑乐评翻译，包含 fusion 的演变、John McLaughlin 的 early life、fusion 时期
 
 原文作者：Gene Santoro

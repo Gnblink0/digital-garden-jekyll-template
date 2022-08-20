@@ -1,3 +1,6 @@
+---
+---
+
 
 安省所有 college 的合集网站： ontariocolleges.ca/en/programs
 （[[加拿大政治|加拿大的高等教育全部由各省各自负责]]，而不是联邦统一管理）

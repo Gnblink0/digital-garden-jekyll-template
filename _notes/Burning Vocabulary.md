@@ -1,3 +1,6 @@
+---
+---
+
 [Burning Vocabulary](https://chrome.google.com/webstore/detail/burning-vocabulary-highli/ljfjnlcnpmabfcgcmffkmgainghokdpl)
 
 是一个chrome插件

@@ -1,3 +1,6 @@
+---
+---
+
 ## Mojo Pin
 > he was just one of those guys that everybody fell in love in a second they met him
 

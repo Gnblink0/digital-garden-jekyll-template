@@ -1,3 +1,6 @@
+---
+---
+
 我本人超爱电子化，能打字绝不手写，能看电子书绝不看纸质的那种，雅思当然也首选机考而不是纸笔，练习也全部都是在电脑上练的
 
 [我应该报告雅思机考还是纸笔考试? IDP 雅思](https://ielts.idp.com/hongkong/about/article-computer-delivered-paper-based-ielts-comparison/zh-hans)

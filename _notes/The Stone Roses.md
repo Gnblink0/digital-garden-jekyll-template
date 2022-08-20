@@ -1,3 +1,6 @@
+---
+---
+
 [乐队：黎明前凋谢的玫瑰——The Stone Roses - 知乎](https://zhuanlan.zhihu.com/p/24318829?utm_id=0)
 
 我觉得黎明前凋谢的玫瑰的确能很好地形容他们，britpop 雄心壮志的先声，却因为种种原因而如此短命。

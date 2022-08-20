@@ -1,3 +1,6 @@
+---
+---
+
 用[[obsidian]]解决了文本管理问题之后，我就一直在寻思有没有一样好用的图片管理软件
 
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220816222355.png)

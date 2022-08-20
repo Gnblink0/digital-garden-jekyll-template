@@ -1,3 +1,6 @@
+---
+---
+
 Nik Bärtsch，瑞典 ecm 钢琴/leader，气质和[[ECM]]很配，连曲目名都一溜的 module+数字，看起来非常冷漠机械，但实际很有趣。
 
 “重复与改变是他音乐的核心“，之前形容这是对我来说最好的结合 groove+minimalism+ecm style，他形容自己为“禅道放克（Zen funk）” ，“介于爵士乐和 Modern Composition、前卫流行、仪式音乐和一般的 groove 音乐之间。”

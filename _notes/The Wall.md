@@ -1,3 +1,6 @@
+---
+---
+
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/hk/album/the-wall/1065975633?l=en"></iframe>
 
 迷墙是最知名的概念专辑之一，概念专辑即整张专辑的歌围绕服务一个概念形成有机的整体，the wall 的核心概念就是——墙，具体形式是按时间顺序写了一位叫 pink floyd 的摇滚明星生平传记，其中融合了很多水爷的个人经历、感受。

@@ -8,7 +8,11 @@ disc1是四首早期迷幻崩峰长曲的live，disc2则是乐队成员各自创
 
 问就是搞实验搞到走火入魔（）但是live挺好的！
 
-封面我相当喜欢
+## 封面
+
+封面我相当喜欢，故弄玄虚，但是我喜欢！
+
+![](https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/05/93/6d/05936d1f-5476-d791-438f-9b3573fd2bee/886445635812.jpg/1000x1000bb.jpg)
 
 ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220818041713.png)
 

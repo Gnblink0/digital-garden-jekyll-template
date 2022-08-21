@@ -37,6 +37,25 @@ and 最帅的（）[b 站有个红衣封面的 live](https://www.bilibili.com/vi
 
 [Bob Geldof - Wikipedia](https://en.wikipedia.org/wiki/Bob_Geldof)
 
+![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220821134507.png)
+助人为乐hhh
+
+- 组建 taste
+	- 一张 live《live taste》
+	- 一张录音室《On the Board》
+
+- 美国巡演（作为 blind faith 的暖场乐队） 
+	- 乐队的裂痕是从那次巡演开始的，罗里对他的经纪人不太满意，另外两个队友更倾向于支持经纪人而不是罗里
+
+- Taste
+	- 经纪人给了唱片公司发行单曲的权利，而罗里非常反对发行单曲（最后发行的单曲《What's Going On》）
+	- 罗里喜欢控制局面，那是他的乐队，他是乐队 leader，他组织了…. 他给乐队起了名字，他把乐队从爱尔兰南部带过来，他觉得这是被别人劫持了
+	- 乐队在怀特岛音乐节（Isle of Wight Festival）上达到了职业生涯的顶峰
+		- ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220821134624.png)
+
+
+- 解散
+- 
 
 ## 资料
 

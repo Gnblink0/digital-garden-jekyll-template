@@ -45,6 +45,7 @@ and 最帅的（）[b 站有个红衣封面的 live](https://www.bilibili.com/vi
 	- 一张录音室《On the Board》
 
 - 美国巡演（作为 blind faith 的暖场乐队） 
+	- ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220821141020.png)
 	- 乐队的裂痕是从那次巡演开始的，罗里对他的经纪人不太满意，另外两个队友更倾向于支持经纪人而不是罗里
 
 - Taste
@@ -55,7 +56,8 @@ and 最帅的（）[b 站有个红衣封面的 live](https://www.bilibili.com/vi
 
 
 - 解散
-- 
+	- ![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/2022-08-21.jpg)
+	- Edge有点惋惜，他觉得如果Rory放手一搏的话可以以更漂亮的姿势打入美国市场，说不定就留名摇滚史了（[[Led Zeppelin]]就这样了 不是吗）。不过我想到的还是[[追求什么就得到什么]]，Rory的一生真的是... born with music, merried to music, live with music，他不会选择做[[Jimmy Page]]和Eric Clapton做的事。
 
 ## 资料
 

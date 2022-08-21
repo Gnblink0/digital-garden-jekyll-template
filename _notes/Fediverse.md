@@ -13,7 +13,7 @@ Fediverse 遵循去「中心化原则」，这意味着所有的服务站点都�
 
 我最常用的依然是[[长毛象]]，类似的 sns 平台还有 misskey 和 pleroma
 
-此外还有适合写长文的 [Writefreely](writefreely.org/instances) 和 [Plume](joinplu.me)
+此外还有适合写长文的 [Writefreely](https://writefreely.org/instances) 和 [Plume](https://www.joinplu.me)
 
 图片 PIXELFED、视频 PeerTube、音乐 Funkwhale
 

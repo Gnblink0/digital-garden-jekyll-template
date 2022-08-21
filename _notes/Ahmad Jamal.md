@@ -25,18 +25,21 @@ Jamal 一共有 60 多张专辑，一直活跃到 21 世纪，继续以 trio 形
 
 - Ahmad Jamal At The Pershing: But Not for Me (Live at The Pershing, Chicago, 1958)  
 
-![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220816144421.png)
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/hk/album/ahmad-jamal-at-the-pershing-but-not-for-me/1445769114?l=en"></iframe>
 
 他最出名的就是这张现场，真的非常棒，舒服但不会无聊，高音区钢琴全程像一串闪闪发光的漂亮碎水晶。他的经典团队配置是trio，配合得很好（ohh又是键盘trio
 
 单曲推荐：Poinciana（最开始就是被推了这首才顺着听了下去  
-（But Not for Me, which featured his version of “Poinciana”, leading Miles Davis to praise his “concept of space, his lightness of touch, his understatement”）
+
+>But Not for Me, which featured his version of “Poinciana”, leading Miles Davis to praise his “concept of space, his lightness of touch, his understatement”
 
 - The Awakening  
 
-![](https://picture-guan.oss-cn-hangzhou.aliyuncs.com/20220816144438.png)
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/hk/album/the-awakening/1443878957?l=en"></iframe>
 
-Rym上标记最多而且分最高的一张，确实听十几秒就觉得不同凡响。比上面那张更炫一点，相比之下live就像愉快小品了，不过他的炫不会腻，有一首叫海豚舞[^1]，就是这种轻盈优雅又聪明顽皮的感觉……
+Rym 上标记最多而且分最高的一张，确实听十几秒就觉得不同凡响。
+
+比上面那张更炫一点，相比之下live就像愉快小品了，不过他的炫不会腻，有一首叫海豚舞[^1]，就是这种轻盈优雅又聪明顽皮的感觉……
 
 单曲推荐：Patterns（感觉这首最紧凑精彩 从头开始听也行 第一首就很好
 

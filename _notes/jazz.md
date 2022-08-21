@@ -40,9 +40,9 @@ Bill Evans 恰到好处的雅致绅士？
 
 Keith Jarret 暂时还没 get 到（）喜欢 [[ECM|ecm]] 但是不常听他  
 
-Hancock 很炫很时髦 不知为啥他会给我一种 ow 里那个 dj 的感觉（）  
+[[Herbie Hancock]] 很炫很时髦 不知为啥他会给我一种 ow 里那个 dj 的感觉（）  
 
-对了顺便 如果说 Hancock 是酷炫 dj 那 Donald Byrd 大概是奶妈之类的角色 XD 每次听都感觉如沐春风身体变轻心情变好
+[[Donald Byrd]]
 
 [[Ahmad Jamal]]
 

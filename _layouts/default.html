@@ -1,13 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
-  {% include head.html %}
-  <body>
-    <nav>{% include nav.html %}</nav>
-    <div class="wrapper">
-      <main>{{ content }}</main>
-      <footer>{% include footer.html %}</footer>
-    </div>
+{% include head.html %}
 
-    {% include link-previews.html wrapperQuerySelector="content" %}
-  </body>
+<body>
+  <!-- HTML elements for search -->
+  <input type="text" id="search-input" placeholder="Search blog posts..">
+  <ul id="results-container"></ul>
+
+  <!-- or without installing anything -->
+  <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+
+  <nav>{% include nav.html %}</nav>
+  <div class="wrapper">
+    <main>{{ content }}</main>
+    <footer>{% include footer.html %}</footer>
+  </div>
+
+  {% include link-previews.html wrapperQuerySelector="content" %}
+</body>
+
 </html>

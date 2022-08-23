@@ -31,7 +31,7 @@
 
 [^2]:可以理解为两个livehouse，不过是1968-1971黄金时期旧金山湾区最著名的摇滚圣地。活跃于这一时期的摇滚名队名人很多都在此演出过，The Allman Brothers Band、the Grateful Dead、Jefferson Airplane啥的都是常客。Led Zeppelin第一次美国演出就是1969年在此为Iron Butterfly开场，很多英国乐队比如Cream（1967）、the Kinks（1969）都来过。 留下了很多经典现场专辑，最著名的Jimi Hendrix《Band of Gypsys》（1970）、The Allman Brothers Band《At Fillmore East》 （1971）。 顺便，jam就是乐手们在一个框架内即兴演奏，词源于爵士，常用在摇滚语境里。
 
-不管你觉得 jazz-rock fusion 的起源是什么——Miles Davis 的《Bitches Brew》（1970）通常被说成起点，但你也可以凭着喜好去争一争《In A Silent Way》（1969）或者 Cream 的《Wheels Of Fire》（1968）或者 Jimi Hendrix 的《Electric Ladyland》（1968）——有一件事是很清楚的：从这一源头发源的音乐混合物迅速滑向了自我放纵与虐待的渊薮。一大群潮人和追捧者如过江之鲫般涌入被先驱开拓的领域，捶胸顿足、舞刀弄枪，手指上下翻飞，头脑却停摆了。毫无意外，这种新音乐不久就又缩水为老一套无聊的陈腔滥调：无穷无尽的浮夸 solo、毫无起伏的平庸节奏、音乐吸引力和鲨鱼打嗝差不多的自我中心主义。难怪 fusion 一词的作用几乎就是对一个时期和风格的笼统概括描述，一个似乎最好被遗忘或至少被忽视的时代和风格。（别骂了别骂了
+不管你觉得 jazz-rock fusion 的起源是什么——Miles Davis 的《Bitches Brew》（1970）通常被说成起点，但你也可以凭着喜好去争一争《In A Silent Way》（1969）或者 Cream 的《Wheels Of Fire》（1968）或者 Jimi Hendrix 的《Electric Ladyland》（1968）——有一件事是很清楚的：从这一源头发源的音乐混合物迅速滑向了自我放纵与虐待的渊薮。一大群潮人和追捧者如过江之鲫般涌入被先驱开拓的领域，捶胸顿足、舞刀弄枪，手指上下翻飞，头脑却停摆了。毫无意外，这种新音乐不久就又缩水为老一套无聊的陈腔滥调：无穷无尽的浮夸 solo、毫无起伏的平庸节奏、音乐吸引力和鲨鱼打嗝差不多的自我中心主义。难怪 fusion 一词的作用几乎就是对一个时期和风格的笼统概括描述，一个似乎最好被遗忘或至少被忽视的时代和风格。
 
 
 ## John Mclaughlin

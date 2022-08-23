@@ -12,6 +12,8 @@
 
 mojo hand
 
+hard rock night
+
 [[2021-09-12 弥藏]]
 
 [[2021-11-29 Robin刘]]
